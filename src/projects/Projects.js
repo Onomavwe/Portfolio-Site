@@ -1,24 +1,24 @@
 import React from "react";
 import "./projects.css";
-import IMG1 from "../assets/portfolio1.jpg";
-import IMG2 from "../assets/portfolio2.jpg";
-import IMG3 from "../assets/portfolio3.jpg";
-import IMG4 from "../assets/portfolio4.jpg";
-import IMG5 from "../assets/portfolio5.png";
-import IMG6 from "../assets/portfolio6.jpg";
+import IMG1 from "../assets/Jobplus App 1 1.svg";
+import IMG2 from "../assets/Website 1.svg";
+import IMG3 from "../assets/Prototype 1.svg";
+import IMG4 from "../assets/Jobplus App 1 1.svg";
+import IMG5 from "../assets/Website 1.svg";
+import IMG6 from "../assets/Prototype 1.svg";
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Crypto Currency Dashboard and Financial Visualization",
+    title: "Jobplus App",
     github: "https://github.com",
     demo: "https://onomavwe.github.io",
   },
   {
     id: 2,
     image: IMG2,
-    title: "Charts templates & infographics in Figma",
+    title: "Event Management App",
     github: "https://github.com",
     demo: "https://brilliant-maamoul-4a5ba3.netlify.app/",
   },

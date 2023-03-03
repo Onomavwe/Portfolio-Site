@@ -8,7 +8,7 @@ export default function Footer() {
   return (
     <footer>
       <a href="#" className="footer__logo">
-        EMMANUEL
+        OCHUKO
       </a>
 
       <ul className="permalinks">
@@ -22,7 +22,7 @@ export default function Footer() {
           <a href="#experience">Experience</a>
         </li>
         <li>
-          <a href="#service">Services</a>
+          <a href="#services">Services</a>
         </li>
         <li>
           <a href="#projects">Projects</a>
@@ -48,7 +48,7 @@ export default function Footer() {
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; Emmanuel Onomavwe. All rights reserved.</small>
+        <small>&copy; Ochuko Onomavwe. All rights reserved.</small>
       </div>
     </footer>
   );
