@@ -29,6 +29,13 @@ export default function Experience() {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icons" />
               <div>
+                <h4>React.JS</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icons" />
+              <div>
                 <h4>JavaScript</h4>
                 <small className="text-light">Intermediate</small>
               </div>
@@ -47,13 +54,6 @@ export default function Experience() {
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icons" />
-              <div>
-                <h4>React</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
           </div>
         </div>
 
@@ -64,36 +64,43 @@ export default function Experience() {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icons" />
               <div>
-                <h4>HTML</h4>
+                <h4>Node.JS</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icons" />
+              <div>
+                <h4>SQL</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icons" />
               <div>
-                <h4>HTML</h4>
+                <h4>Python</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icons" />
+              <div>
+                <h4>Express</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icons" />
               <div>
-                <h4>HTML</h4>
+                <h4>Axios</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icons" />
               <div>
-                <h4>HTML</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icons" />
-              <div>
-                <h4>HTML</h4>
-                <small className="text-light">Experienced</small>
+                <h4>AWS</h4>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
           </div>

@@ -2,9 +2,9 @@ import React from "react";
 import "./projects.css";
 import IMG1 from "../assets/Jobplus App 1 1.svg";
 import IMG2 from "../assets/Website 1.svg";
-import IMG3 from "../assets/Prototype 1.svg";
-import IMG4 from "../assets/Jobplus App 1 1.svg";
-import IMG5 from "../assets/Website 1.svg";
+import IMG3 from "../assets/event-manager.png";
+import IMG4 from "../assets/weather-app.png";
+import IMG5 from "../assets/events-app.png";
 import IMG6 from "../assets/Prototype 1.svg";
 
 const data = [
@@ -12,27 +12,27 @@ const data = [
     id: 1,
     image: IMG1,
     title: "Jobplus App",
-    github: "https://github.com",
-    demo: "https://onomavwe.github.io",
+    github: "https://github.com/Onomavwe/Jobplus_App_Frontend",
+    demo: "#",
   },
   {
     id: 2,
     image: IMG2,
-    title: "Event Management App",
-    github: "https://github.com",
+    title: "Personal Portfolio Website - Old Version",
+    github: "https://github.com/Onomavwe/onomavwe.github.io",
     demo: "https://brilliant-maamoul-4a5ba3.netlify.app/",
   },
   {
     id: 3,
     image: IMG3,
-    title: "Figma dashboard UI kit for data design web apps",
-    github: "https://github.com",
-    demo: "https://onomavwe.github.io",
+    title: "Event Management App",
+    github: "https://github.com/Onomavwe/react-event-management-app",
+    demo: "https://brilliant-maamoul-4a5ba3.netlify.app/",
   },
   {
     id: 4,
     image: IMG4,
-    title: "Maitaining tasks and tracking progress",
+    title: "Maitaining tasks and tracking",
     github: "https://github.com",
     demo: "https://onomavwe.github.io",
   },

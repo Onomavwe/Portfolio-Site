@@ -48,7 +48,7 @@ export default function Contact() {
             <BsWhatsapp className="contact__option-icon" />
             <h4>WhatsApp</h4>
             <h5>Send a WhatsApp message</h5>
-            <a href="https://api.whatsapp.com/send?phone=2347030196916" target="_blank">
+            <a href="https://api.whatsapp.com/send?phone=2347030196916" target="_blank" rel="noreferrer">
               Send a message
             </a>
           </article>

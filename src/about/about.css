@@ -13,14 +13,14 @@
     place-items: center;
 }
 
-.about__me-image {
+.about__me-photo {
     border-radius: 2rem;
     overflow: hidden;
     /* transform: rotate(10deg); */
     transition: var(--transition);
 }
 
-.about__me-image:hover {
+.about__me-photo:hover {
     transform: rotate(0);
 }
 

@@ -13,8 +13,8 @@ export default function About() {
       <h2>About Me</h2>
       <div className="container about__container">
         <div className="about__me">
-          <div className="about__me-image">
-            <img src={ME} alt="About Image" />
+          <div className="about__me-photo">
+            <img src={ME} alt="About Photo" />
           </div>
         </div>
         <div className="about__content">
@@ -36,9 +36,17 @@ export default function About() {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Est repellat porro, quod vitae necessitatibus minus voluptatibus nulla doloremque asperiores praesentium enim tempora molestiae fugit dolores dolore commodi non. Maiores, cum!30
+            I am a brilliant, creative, innovative, and motivated software developer with a penchant for excellence. I am committed to driving
+            organisational growth through innovation and excellent creativity: building quality working software products that meet user requirements.
+            <br></br>
+            <br></br>I bring over ten years of cross functional multi-discipline experience into my work enabling me to enhance my projects to fit
+            specific purpose functionally and visually.
+            <br></br>
+            <br></br>I love excellence because you deserve to get an excellent product.
           </p>
-          <a href='#contact' className='btn btn-primary'>Let's Talk</a>
+          <a href="#contact" className="btn btn-primary">
+            Let's Talk
+          </a>
         </div>
       </div>
     </section>
