@@ -41,7 +41,7 @@ const data = [
     image: IMG5,
     title: "Events App with Bespoke Event Management System",
     github: "https://github.com/Onomavwe/Events-App",
-    demo: "https://onomavwe.github.io",
+    demo: "https://events-app-mauve.vercel.app/",
   },
   {
     id: 6,
