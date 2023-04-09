@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Portfolio-Site/static/css/main.27b9e6c3.css",
-    "main.js": "/Portfolio-Site/static/js/main.e91812a9.js",
+    "main.js": "/Portfolio-Site/static/js/main.43dc4325.js",
     "static/media/pics-2.jpg": "/Portfolio-Site/static/media/pics-2.7705e472b61668a46b8e.jpg",
     "static/media/events-app.png": "/Portfolio-Site/static/media/events-app.ac9bb02480df594e5848.png",
     "static/media/event-manager.png": "/Portfolio-Site/static/media/event-manager.6476369100830f4bbc48.png",
     "static/media/Website 1.svg": "/Portfolio-Site/static/media/Website 1.59856ef4076a7c3906d508d669b0cf56.svg",
-    "static/media/cv.pdf": "/Portfolio-Site/static/media/cv.ee09ef087a54561c8328.pdf",
     "static/media/Prototype 1.svg": "/Portfolio-Site/static/media/Prototype 1.f84d2fb9e06f0f15f201cea4b429829a.svg",
+    "static/media/cv-1.pdf": "/Portfolio-Site/static/media/cv-1.47625c94f17a6a159fec.pdf",
     "static/media/weather-app.png": "/Portfolio-Site/static/media/weather-app.17422a4e5e5dee1a27b4.png",
     "static/media/pics-1.jpeg": "/Portfolio-Site/static/media/pics-1.3c096f0316a35ace42bf.jpeg",
     "static/media/Jobplus App 1 1.svg": "/Portfolio-Site/static/media/Jobplus App 1 1.c3f17686d8b292e3d30c05cce24f5244.svg",
     "index.html": "/Portfolio-Site/index.html",
     "main.27b9e6c3.css.map": "/Portfolio-Site/static/css/main.27b9e6c3.css.map",
-    "main.e91812a9.js.map": "/Portfolio-Site/static/js/main.e91812a9.js.map"
+    "main.43dc4325.js.map": "/Portfolio-Site/static/js/main.43dc4325.js.map"
   },
   "entrypoints": [
     "static/css/main.27b9e6c3.css",
-    "static/js/main.e91812a9.js"
+    "static/js/main.43dc4325.js"
   ]
 }
