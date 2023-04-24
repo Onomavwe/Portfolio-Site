@@ -5,49 +5,49 @@ import IMG2 from "../assets/Website 1.svg";
 import IMG3 from "../assets/event-manager.png";
 import IMG4 from "../assets/weather-app.png";
 import IMG5 from "../assets/events-app.png";
-import IMG6 from "../assets/Prototype 1.svg";
+import IMG6 from "../assets/admin.png";
 
 const data = [
   {
     id: 1,
-    image: IMG1,
-    title: "Jobplus App",
-    github: "https://github.com/Onomavwe/Jobplus_App_Frontend",
-    demo: "#",
+    image: IMG6,
+    title: "Admin Dashboard Template - Built with React",
+    github: "https://github.com/Onomavwe/React-Admin-Dashboard",
+    demo: "https://real-admin-ochre.vercel.app/",
   },
   {
     id: 2,
-    image: IMG2,
-    title: "Personal Portfolio Website - Old Version",
-    github: "https://github.com/Onomavwe/onomavwe.github.io",
-    demo: "https://onomavwe.github.io",
+    image: IMG5,
+    title: "Events App with Bespoke Event Management System",
+    github: "https://github.com/Onomavwe/Events-App",
+    demo: "https://events-app-cnmb.onrender.com/",
   },
   {
     id: 3,
+    image: IMG4,
+    title: "Weather App with API Integration.",
+    github: "https://github.com/Onomavwe/React-Weather-App",
+    demo: "https://react-weather-app-seven-omega.vercel.app/",
+  },
+  {
+    id: 4,
     image: IMG3,
     title: "Event Management App",
     github: "https://github.com/Onomavwe/react-event-management-app",
     demo: "https://brilliant-maamoul-4a5ba3.netlify.app/",
   },
   {
-    id: 4,
-    image: IMG4,
-    title: "Weather App with API Integration and Auto-Complete Search",
-    github: "https://github.com",
-    demo: "https://onomavwe.github.io",
-  },
-  {
     id: 5,
-    image: IMG5,
-    title: "Events App with Bespoke Event Management System",
-    github: "https://github.com/Onomavwe/Events-App",
-    demo: "https://events-app-mauve.vercel.app/",
+    image: IMG1,
+    title: "Jobplus App",
+    github: "https://github.com/Onomavwe/Jobplus_App_Frontend",
+    demo: "#",
   },
   {
     id: 6,
-    image: IMG6,
-    title: "Figma Landing page UI kit / web app design",
-    github: "https://github.com",
+    image: IMG2,
+    title: "Personal Portfolio Website - Old Version",
+    github: "https://github.com/Onomavwe/onomavwe.github.io",
     demo: "https://onomavwe.github.io",
   },
 ];
